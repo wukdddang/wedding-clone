@@ -1,0 +1,33 @@
+#app {
+  background-color: #fbfbfb;
+}
+.title {
+  font-family: "Crimson Pro", serif;
+  line-height: 21px;
+  color: #49413a;
+}
+
+.main-bottom {
+  font-family: "Gowun Dodum", sans-serif;
+  font-size: 1.1rem;
+}
+.main-bottom .datetime {
+  font-family: "Gowun Dodum", sans-serif;
+  font-size: 0.9rem;
+  text-align: center;
+  line-height: 1.8rem;
+  color: #544f4f;
+}
+
+.wedding-datetime {
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.wedding-day {
+  font-size: 16px;
+}
+
+.text-wider {
+  letter-spacing: 2px;
+}
