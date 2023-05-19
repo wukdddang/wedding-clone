@@ -15,7 +15,7 @@ function Main() {
         ></video>
       </div>
       <div className="main-bottom mt-10">
-        <div className="text-center main-bottom">
+        <div className="text-center">
           <span>최도현</span>
           <span className="px-2">|</span>
           <span>이하나</span>
