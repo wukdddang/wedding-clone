@@ -1,5 +1,6 @@
 #app {
   background-color: #fbfbfb;
+  font-family: "Gowun Dodum", sans-serif;
 }
 .title {
   font-family: "Crimson Pro", serif;
@@ -8,11 +9,9 @@
 }
 
 .main-bottom {
-  font-family: "Gowun Dodum", sans-serif;
   font-size: 1.1rem;
 }
 .main-bottom .datetime {
-  font-family: "Gowun Dodum", sans-serif;
   font-size: 0.9rem;
   text-align: center;
   line-height: 1.8rem;
