@@ -30,3 +30,15 @@
 .text-wider {
   letter-spacing: 2px;
 }
+
+.modal__inner__img {
+  width: 0.9rem;
+  height: 0.9rem;
+  margin-right: 0.3rem;
+}
+
+.main__flower__img {
+  width: 20px;
+  height: 40px;
+  margin: 0 auto;
+}
